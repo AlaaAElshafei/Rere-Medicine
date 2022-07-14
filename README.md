@@ -1,5 +1,5 @@
 # Nearby-Restaurants-Tracking
-An Android Application to list the nearby restaurants using your current location.
+An Android Application to list the nearby Rere-Medicine using your current location.
 
 
 The Application contains the following features:
