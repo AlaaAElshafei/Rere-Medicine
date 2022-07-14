@@ -1,4 +1,4 @@
-# Nearby-Restaurants-Tracking
+# Nearby-Rere-Medicine-Tracking
 An Android Application to list the nearby Rere-Medicine using your current location.
 
 
